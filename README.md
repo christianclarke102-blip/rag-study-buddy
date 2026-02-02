@@ -26,3 +26,6 @@ ollama pull phi3
 python3 -m rag.build_index
 streamlit run app/main.py
 
+## Demo
+
+![RAG Study Buddy Demo](screenshots/app_demo.png)
